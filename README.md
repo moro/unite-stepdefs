@@ -9,6 +9,7 @@ This [feature request]( https://github.com/moro/cucumber/commit/e94e76d05febec55
 unite-stepdefs is a [unite.vim](https://github.com/Shougo/unite.vim)'s source.
 
 This source enables you to glance a index of your step definitions, jump to the stepdef, paste stepdef to feature file.
+![screenshot](https://img.skitch.com/20120116-b36577iueui3x78cbf82yfbxj9.png)
 
 ## Install
 
