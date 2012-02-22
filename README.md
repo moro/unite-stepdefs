@@ -1,9 +1,5 @@
 # unite-stepdefs
 
-## NOT WORKS YET !!
-
-This [feature request]( https://github.com/moro/cucumber/commit/e94e76d05febec5500ecf4cf6e8548eb130b61dc) is required to work this plugin.  I'll send a pull-request soon.
-
 ## Introduction
 
 unite-stepdefs is a [unite.vim](https://github.com/Shougo/unite.vim)'s source.
@@ -14,6 +10,12 @@ This source enables you to glance a index of your step definitions, jump to the 
 ## Install
 
 Install the distributed files into your Vim script directory which is usually $HOME/.vim, or $HOME/vimfiles on Windows.
+
+## Requirements
+
+```
+gem 'cucumber', '>= 1.1.6'
+```
 
 ## Usage
 
